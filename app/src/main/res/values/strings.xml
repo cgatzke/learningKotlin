@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TryingToLearnKotlin</string>
+    <string name="recipe_title">Imma Recipe Name</string>
+    <string name="cycle_recipe">Maybe Yes?</string>
+    <string name="confirm_recipe">Yes. This One.</string>
 </resources>
